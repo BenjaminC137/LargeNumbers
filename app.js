@@ -1,6 +1,7 @@
 // var lightSpeedSubmitted, lightSpeed;
 // var lightSpeedPercent = lightSpeedSubmitted / lightSpeed;
 
-function turnBlue() {
-    document.querySelector("h1").style.color = "blue";
+// makes the title bigger. temporary testing funny thing.
+function embiggen() {
+    document.querySelector("h1").style.fontSize = "148px";
 }
